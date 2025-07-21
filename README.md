@@ -45,7 +45,7 @@ Currently honing my skills in React.js, React Native, backend development, and A
 ### 📫 Contact Me
 
 - ✉️ Email: arjunnyaupane16@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/chandraprakash-nyaupane-347292372](https:/linkedin.com/in/arjunnyaupane16)
+- 🔗 LinkedIn:(https:/linkedin.com/in/arjunnyaupane16)
 
 ---
 
