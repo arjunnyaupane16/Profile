@@ -1,5 +1,6 @@
 # Profile
 Skilled in a wide array of programming languages and frameworks including JavaScript, React.js, React Native, Node.js, MongoDB, HTML, CSS, and beyond.
+
 # 👋 Hi, I'm Chandraprakash Nyaupane
 
 🎓 **BTech CSE Student** | Full-Stack Developer | Tech Passionate
@@ -45,7 +46,7 @@ Currently honing my skills in React.js, React Native, backend development, and A
 ### 📫 Contact Me
 
 - ✉️ Email: arjunnyaupane16@gmail.com  
--🔗 LinkedIn: [linkedin.com/in/arjunnyaupane16](https://www.linkedin.com/in/arjunnyaupane16/)
+- 🔗 LinkedIn: [linkedin.com/in/arjunnyaupane16](https://www.linkedin.com/in/arjunnyaupane16/)
 
 ---
 
@@ -53,7 +54,12 @@ Currently honing my skills in React.js, React Native, backend development, and A
 
 ![Chandraprakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=arjunnyaupane16&show_icons=true&theme=radical)
 
--### 📊 Vercel--
-🚀 Vercel Projects: [vercel.com/arjunnyaupane16s-projects](https://vercel.com/arjunnyaupane16s-projects)
+---
+
+### 🚀 Vercel Projects
+
+[vercel.com/arjunnyaupane16s-projects](https://vercel.com/arjunnyaupane16s-projects)
+
+---
 
 Thanks for stopping by! Feel free to connect. 😊
