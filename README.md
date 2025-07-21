@@ -28,7 +28,8 @@ Currently honing my skills in React.js, React Native, backend development, and A
 ### 💻 Projects
 
 - **Drift & Sip**  
-  Real-time order management app built with React Native and Node.js backend. Features live tracking, soft delete, dashboards, and API integration.
+  Real-time order management app built with React Native and Node.js backend. Features live tracking, soft delete, dashboards, and API integration.  
+  🌐 [Live Demo](https://drift-and-sip-user-app.vercel.app/)
 
 - **Personal Portfolio**  
   Responsive portfolio website built with React.js showcasing projects and skills.
