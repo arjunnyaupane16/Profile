@@ -15,6 +15,8 @@ I'm a passionate full-stack developer with expertise in building modern web and 
 🌱 Learning: AWS Cloud Services, GraphQL, and Docker  
 
 💬 Ask me about: JavaScript, React ecosystem, or backend development  
+
+
 ---
 
 ## 🛠️ Tech Stack
