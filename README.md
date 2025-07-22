@@ -1,67 +1,117 @@
-# Profile
-Skilled in a wide array of programming languages and frameworks including JavaScript, React.js, React Native, Node.js, MongoDB, HTML, CSS, and beyond.
-# 👋 Hi, I'm Chandraprakash Nyaupane
+# 👋 Hi, I'm Chandraprakash Nyaupane 
 
-🎓 **BTech CSE Student** | 💻 Full-Stack Developer | ⚡ Tech Enthusiast
+🎓 BTech CSE Student | 💻 Full-Stack Developer | 🚀 Open Source Contributor | ⚡ Tech Enthusiast
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-I’m passionate about building modern web and mobile applications using the latest technologies.  
-Currently sharpening my skills in **React.js**, **React Native**, **backend development**, and **API integration**.  
-Eager to contribute to impactful projects and collaborate with like-minded developers.
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunnyaupane16&layout=compact&theme=radical" width="300" />
 
----
+I'm a passionate full-stack developer with expertise in building modern web and mobile applications. My journey in tech began with simple HTML pages and has evolved into creating complex, scalable applications. I love solving real-world problems through code and continuously learning new technologies.
 
-### 🧰 Skills & Technologies
-
-| 💻 Frontend           | 🛠️ Backend              | 🔧 Tools & Platforms         |
-| --------------------- | ----------------------- | ---------------------------- |
-| HTML5, CSS3           | Node.js, Express.js     | Git, GitHub, Postman, VS Code |
-| JavaScript (ES6+)     | MongoDB                 | Expo CLI, Firebase, Netlify |
-| React.js              | RESTful APIs            | Vercel, Responsive Design   |
-| React Native          |                         |                              |
+🔭 Currently working on: Advanced React Native features and microservices architecture  
+🌱 Learning: AWS Cloud Services, GraphQL, and Docker  
+💬 Ask me about: JavaScript, React ecosystem, or backend development  
+⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
 
 ---
 
-### 💼 Projects
+## 🛠️ Tech Stack
 
-#### 🚦 Drift & Sip
-Real-time order management app built with **React Native** and **Node.js** backend.  
-Includes live tracking, soft delete, dashboards, and API integration.  
-🌐 [Live Demo](https://drift-and-sip-user-app.vercel.app/)
+### 📋 Languages
 
-#### 🧑‍💻 Personal Portfolio  
-Responsive portfolio website showcasing skills and featured projects using **React.js**.
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
----
+### 🖥️ Frontend
 
-### 🌱 Currently Learning
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-- Advanced backend architecture and design patterns  
-- Deployment and DevOps basics  
-- Cloud services (AWS, Firebase)
+### ⚙️ Backend
 
----
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-### 📫 Contact Me
+### 🛠️ Tools
 
-- ✉️ **Email:** arjunnyaupane16@gmail.com  
-- 🔗 **LinkedIn:** [linkedin.com/in/arjunnyaupane16](https://www.linkedin.com/in/arjunnyaupane16/)
-
----
-
-### 📊 GitHub Stats
-
-![Chandraprakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=arjunnyaupane16&show_icons=true&theme=radical)
-
----
-
-### 🚀 Vercel Projects
-
-🔗 [vercel.com/arjunnyaupane16s-projects](https://vercel.com/arjunnyaupane16s-projects)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-Thanks for visiting! Feel free to connect. 😊
+## 🚀 Featured Projects
+
+### 1. Drift & Sip - Order Management System ☕
+**Tech Stack:** React Native, Node.js, Express, MongoDB, Firebase  
+- Real-time order tracking system with live updates  
+- Admin dashboard with analytics and soft delete functionality  
+- Secure authentication with JWT and role-based access  
+
+🔗 [Live Demo](https://drift-and-sip-user-app.vercel.app/) | 💻 [GitHub Repo](https://github.com/arjunnyaupane16/drift-and-sip)
+
+### 2. Personal Portfolio Website 🌐
+**Tech Stack:** React.js, Tailwind CSS, Framer Motion  
+- Fully responsive design with dark/light mode  
+- Animated components for better user engagement  
+- Project showcase with detailed case studies  
+
+🔗 [Live Demo](https://arjunnyaupane16.vercel.app/) | 💻 [GitHub Repo](https://github.com/arjunnyaupane16/portfolio)
+
+### 3. Task Management App 📝
+**Tech Stack:** MERN Stack (MongoDB, Express, React, Node)  
+- Drag-and-drop task organization  
+- Real-time collaboration features  
+- Calendar integration and deadline reminders  
+
+🔗 [Live Demo](https://taskify-mern.vercel.app/) | 💻 [GitHub Repo](https://github.com/arjunnyaupane16/task-manager)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arjunnyaupane16&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arjunnyaupane16&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arjunnyaupane16&theme=radical&row=2&column=3" />
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+- 🐳 Docker and Kubernetes for containerization  
+- ☁️ AWS Services (EC2, S3, Lambda)  
+- 🔗 GraphQL for efficient data fetching  
+- 🧪 Testing frameworks (Jest, Cypress)  
+
+---
+
+## 📫 Let's Connect!
+
+I'm always open to interesting projects, collaborations, or just a tech discussion!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjunnyaupane16/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arjunnyaupane16)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjunnyaupane16@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://arjunnyaupane16.vercel.app/)
+
+---
+
+⭐ From [Chandraprakash Nyaupane](https://github.com/arjunnyaupane16)
