@@ -88,12 +88,6 @@ I'm a passionate full-stack developer with expertise in building modern web and 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arjunnyaupane16&theme=radical" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arjunnyaupane16&theme=radical&row=2&column=3" />
-</div>
-
----
-
 ## 🌱 Currently Learning
 
 - 🐳 Docker and Kubernetes for containerization  
