@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chandraprakash Nyaupane 
 
-🎓 BTech CSE Student | 💻 Full-Stack Developer | 🚀 Open Source Contributor | ⚡ Tech Enthusiast
+🎓 BTech CSE Student | 💻 Full-Stack Developer | 🚀 Open Source Contributor | ⚡ Tech passionate
 
 ---
 
