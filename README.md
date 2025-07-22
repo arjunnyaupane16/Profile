@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chandraprakash Nyaupane 
+# Hi, I'm Chandraprakash Nyaupane 
 
 🎓 BTech CSE Student | 💻 Full-Stack Developer | 🚀 Open Source Contributor | ⚡ Tech passionate
 
