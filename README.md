@@ -13,8 +13,6 @@ I'm a passionate full-stack developer with expertise in building modern web and 
 🔭 Currently working on: Advanced React Native features and microservices architecture  
 🌱 Learning: AWS Cloud Services, GraphQL, and Docker  
 💬 Ask me about: JavaScript, React ecosystem, or backend development  
-⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
-
 ---
 
 ## 🛠️ Tech Stack
