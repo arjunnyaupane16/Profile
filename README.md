@@ -11,7 +11,9 @@
 I'm a passionate full-stack developer with expertise in building modern web and mobile applications. My journey in tech began with simple HTML pages and has evolved into creating complex, scalable applications. I love solving real-world problems through code and continuously learning new technologies.
 
 🔭 Currently working on: Advanced React Native features and microservices architecture  
+
 🌱 Learning: AWS Cloud Services, GraphQL, and Docker  
+
 💬 Ask me about: JavaScript, React ecosystem, or backend development  
 ---
 
