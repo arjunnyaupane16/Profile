@@ -82,6 +82,12 @@ I'm a passionate full-stack developer with expertise in building modern web and 
 🔗 [Live Demo](https://taskify-mern.vercel.app/) | 💻 [GitHub Repo](https://github.com/arjunnyaupane16/task-manager)
 
 ---
+### 4.Admin-app
+*Tech Stack:** React Native, Node.js, Express, MongoDB, Firebase  
+- Real-time order tracking system with live updates  
+- Admin dashboard with analytics and soft delete functionality  
+- Secure authentication with JWT and role-based access  
+🔗 [Live Demo](https://admin-app-rose.vercel.app/) | 💻 [GitHub Repo](https://github.com/arjunnyaupane16/admin-app)
 
 ## 📈 GitHub Stats
 
