@@ -73,15 +73,7 @@ I'm a passionate full-stack developer with expertise in building modern web and 
 
 🔗 [Live Demo](https://arjunnyaupane16.vercel.app/) | 💻 [GitHub Repo](https://github.com/arjunnyaupane16/portfolio)
 
-### 3. Task Management App 📝
-**Tech Stack:** MERN Stack (MongoDB, Express, React, Node)  
-- Drag-and-drop task organization  
-- Real-time collaboration features  
-- Calendar integration and deadline reminders  
-
-🔗 [Live Demo](https://taskify-mern.vercel.app/) | 💻 [GitHub Repo](https://github.com/arjunnyaupane16/task-manager)
-
-### 4.Admin-app
+### 3.Admin-app
 *Tech Stack:** React Native, Node.js, Express, MongoDB, Firebase  
 - Real-time order tracking system with live updates  
 - Admin dashboard with analytics and soft delete functionality  
