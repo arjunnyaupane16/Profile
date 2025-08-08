@@ -8,7 +8,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunnyaupane16&layout=compact&theme=radical" width="300" />
 
-I'am a passionate full-stack developer with expertise in building modern web and mobile applications. My journey in tech began with simple HTML pages and has evolved into creating complex, scalable applications. I love solving real-world problems through code and continuously learning new technologies.
+I'am a passionate full-stack developer with expertise in building modern web and mobile applications. My journey in tech began with simple HTML pages and has evolved into creating complex, scalable applications.I love solving real-world problems through code and continuously learning new technologies.
 
 🔭 Currently working on: Advanced React Native features and microservices architecture  
 
